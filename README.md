@@ -1,4 +1,4 @@
-#简单仿写360浏览器首页
+简单仿写360浏览器首页
 
 GitHub项目地址：https://github.com/AliceGB/A-simple-imitation-of-360-browser
 
